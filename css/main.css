@@ -1166,7 +1166,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffed6f;
+  background: #53c8bb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1730,11 +1730,11 @@ pre .javascript .function {
   top: 0;
   width: 100%;
 }
-.post-body a {
+.post-body p a {
   color: #64ceaa;
   border-bottom: 1px solid #64ceaa;
 }
-.post-body a:hover {
+.post-body p a:hover {
   color: #fc6423;
   border-bottom: 1px solid #fc6423;
 }
