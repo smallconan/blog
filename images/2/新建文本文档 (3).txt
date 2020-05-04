@@ -1,0 +1,1 @@
+./configure --prefix=/usr/local/nginx --conf-path=/usr/local/nginx/nginx.conf --with-http_ssl_module 
