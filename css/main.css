@@ -2444,3 +2444,11 @@ body {
 .footer a:visited {
   color: #fff;
 }
+blockquote {
+  border-left: 4px solid #2775b6;
+  color: #666;
+  margin: 0;
+  padding: 0 15px;
+  background-color: #fafafa;
+  font-style: italic;
+}
