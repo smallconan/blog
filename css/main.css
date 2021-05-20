@@ -1193,7 +1193,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #98ff86;
+  background: #ff75b8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2415,6 +2415,8 @@ body {
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-attachment: fixed;
+  -webkit-background-repeat: no-repeat;
+  background-repeat: no-repeat;
   margin: 0;
   padding: 0;
   background-image: url("https://v1.alapi.cn/api/bing");
